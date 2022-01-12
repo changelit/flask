@@ -6,7 +6,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 pathtools==0.1.2
-pipenv==2018.11.26
+pipenv==2022.1.8
 PyYAML==5.1.1
 virtualenv==16.6.0
 virtualenv-clone==0.5.3
